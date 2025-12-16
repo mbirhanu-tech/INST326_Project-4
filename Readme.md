@@ -147,4 +147,8 @@ Key Validations:
 * Data persistence correctly saves/loads library state. 
 * Polymorphic fine calculation works for Books vs. DVDs. 
 * System recovers gracefully from missing or corrupt data files.
+Below is the link to the Video Presentation
+
+https://youtu.be/LL4g2vtsK3Q
+
 * CSV data import correctly populates the catalog.
